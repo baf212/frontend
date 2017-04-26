@@ -1,0 +1,32 @@
+
+body {
+    background-color: darkgray;
+}
+
+.p1 {
+
+    color: midnightblue;
+    font-style: italic;
+    margin-left: 40px;
+    line-height: 2;
+
+    }
+
+#p2 {
+    color: black;
+    text-align: center;
+
+}
+.p3 {
+
+    color: chartreuse;
+
+}
+.p4 {
+    color: darkturquoise;
+    background-color: blueviolet;
+}
+
+.p3>.p4{
+    background-color: darkgreen;
+}
